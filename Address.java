@@ -5,6 +5,7 @@ public class Address {
     protected String street;
     protected int distanceFromAirport;
     protected int distanceFromCC;
+    String salma
 
     public Address(String city, String street, int distanceFromAirport, int distanceFromCC) {
         this.city = city;
